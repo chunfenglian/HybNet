@@ -11,6 +11,7 @@ We propose an attention-guided deep learning framework to extract multi-level di
 
 ## Installation
 Python 2.7, Keras 2.1.0, TensorFlow 1.10.0, CUDA 9.0 and on Ubuntu 16.04.
+
 Dependencies: SimpleITK, numpy, scipy ...
 
 ## Usage
