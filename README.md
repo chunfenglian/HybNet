@@ -35,7 +35,7 @@ Notably, each sub-network of HybNet could be trained in the deep-supervision fas
 If you find our work is useful in your project, welcome to cite:
 
         @article{lian2019hybnet,
-          title={PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space},
+          title={Attention-Guided Hybrid Network for Dementia Diagnosis with Structural MR Images},
           author={Lian, Chunfeng and Liu, Mingxia and Pan, Yongsheng and Shen, Dinggang},
           journal={xxx},
           year={2019}
