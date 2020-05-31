@@ -1,6 +1,8 @@
 # HybNet
 Attention-Guided Hybrid Network for Brain Disease Diagnosis with Structural MR Images
 
+Created by Dr Chunfeng Lian, Department of Radiology and BRIC, UNC Chapel Hill.
+
 <p align="center"> <img src="files/pipeline.png" width="60%"> </p>
 <p align="center"> A two-stage framework consisting of localization and diagnosis </p>
 <p align="center"> <img src="files/HybNet.png" width="80%"> </p>
@@ -28,3 +30,13 @@ Construct HybNet for diagnosis:
 python call_hybnet.py --gpu 0 --batch_size 2 --img_path xxx
 ```
 Notably, each sub-network of HybNet should be trained in the fashion of deep suprvision to optimize its performance.
+
+## Citation
+If you find our work is useful in your project, welcome to cite:
+
+        @article{lian2019hybnet,
+          title={PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space},
+          author={Lian, Chunfeng and Liu, Mingxia and Pan, Yongsheng and Shen, Dinggang},
+          journal={xxx},
+          year={2019}
+        }
