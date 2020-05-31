@@ -29,7 +29,7 @@ Construct HybNet for diagnosis:
 ```
 python call_hybnet.py --gpu 0 --batch_size 2 --img_path xxx
 ```
-Notably, each sub-network of HybNet should be trained in the fashion of deep suprvision to optimize its performance.
+Notably, each sub-network of HybNet could be trained in the deep-supervision fashion to optimize its performance. Please refer to the source codes for more details.
 
 ## Citation
 If you find our work is useful in your project, welcome to cite:
